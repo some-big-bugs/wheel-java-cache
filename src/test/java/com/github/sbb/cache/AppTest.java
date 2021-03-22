@@ -1,4 +1,4 @@
-package com.github.cache;
+package com.github.sbb.cache;
 
 import static org.junit.Assert.assertTrue;
 
